@@ -1,5 +1,7 @@
 # Python
 
+About HTML Parse: 
+
     # First Parameter Number of Route or Link want to Visit (example: 1000) : Integer => number_of_iteration
     # Second parameter the base url (example: https://wwww.prothonalo.com) : string   => base_url
     # 3rd parameter for the file name of words after process (example: datetime.datetime.now() ) : string => file_name
@@ -16,6 +18,10 @@
     # 2 https://www.prothomalo.com
     # 3 http://banglaconverter.xyz
     # 4 http://www.dailynayadiganta.com
+    
+About Root Word Finding:
+    
+    # we find the root word of bangla
 
 
 
